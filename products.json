@@ -1,0 +1,119 @@
+{
+  "categories": [
+    {
+      "name": "Laptops",
+      "products": [
+        {
+          "name": "ASUS ExpertBook P1503CTA",
+          "image": "laptop4Asus.png",
+          "description": "15.6” Full HD laptop powered by Intel Core i3-N355, featuring 8GB LPDDR5X memory and a 512GB PCIe NVMe SSD. Ideal for everyday business, admin, and office productivity.",
+          "sku": "P1503CTA-I38512G1W",
+          "price": 6779
+        },
+        {
+          "name": "Lenovo IdeaPad IP1 15AMN7",
+          "image": "laptop3Lenovo.png",
+          "description": "15.6” Full HD laptop with AMD Ryzen 5 7520U processor, 16GB LPDDR5 memory and a 512GB SSD. A strong mid-range option for multitasking and daily productivity.",
+          "sku": "IP1 82VG00LGSA",
+          "price": 9943
+        },
+        {
+          "name": "Acer Aspire 3 A315-59",
+          "image": "laptop5Acer.jpg",
+          "description": "15.6” Full HD laptop featuring Intel Core i7-1255U processor, 8GB DDR4 memory and a 512GB PCIe NVMe SSD. Suitable for users needing extra performance at a competitive price.",
+          "sku": "NX.K6SEA.007",
+          "price": 12429
+        },
+        {
+          "name": "Acer TravelMate X4 14” AI",
+          "image": "laptop1Acer.jpg",
+          "alt": "Acer TravelMate X4 14 AI Laptop",
+          "description": "Intel Core Ultra 7 processor with AI Boost NPU (up to 115 TOPS), 14” WUXGA OLED display (100% DCI-P3), 32GB LPDDR5X RAM and 1TB PCIe NVMe SSD. Built for demanding professional and AI-powered workloads.",
+          "skuLabel": "Product Code",
+          "sku": "NX.BPUEA.003",
+          "price": 24632
+        },
+        {
+          "name": "Apple MacBook Air 13” (M4)",
+          "image": "laptop2Apple.jpg",
+          "alt": "Apple MacBook Air 13 M4",
+          "description": "Powered by the Apple M4 chip with a 10-core CPU and 8-core GPU, featuring 16GB unified memory and a 256GB SSD. Lightweight, powerful and ideal for productivity and creative work.",
+          "sku": "MW123",
+          "price": 20487
+        }
+      ]
+    },
+    {
+      "name": "Tablets",
+      "products": [
+        {
+          "name": "Apple iPad Air 11” Wi‑Fi + Cellular",
+          "image": "tablet1Apple.jpg",
+          "alt": "Apple iPad Air 11 WiFi Cellular",
+          "description": "11‑inch iPad Air with Wi‑Fi and cellular connectivity, 256GB storage and a sleek, portable design. Perfect for mobile productivity, meetings and media consumption.",
+          "sku": "MCG04",
+          "price": 18154
+        }
+      ]
+    },
+    {
+      "name": "Phones",
+      "products": [
+        {
+          "name": "iPhone 17 Pro 256GB Deep Blue",
+          "image": "phoneApple17.jpg",
+          "description": "iPhone 17 with advanced performance, high-resolution display and enhanced camera system in a sleek, premium design. Ideal for everyday communication, content creation and productivity on the go.",
+          "sku": "MG8J4",
+          "price": 27799
+        },
+        {
+          "name": "iPhone 14 128GB Starlight",
+          "image": "phoneApple14.jpg",
+          "description": "iPhone 14 with 128GB storage in Starlight is praised for its smooth performance, reliable all-day battery life and bright, colour-accurate display. The dual-camera system delivers sharp photos and stable video, making it a dependable choice for everyday use, social media and content creation.",
+          "sku": "MPUR3",
+          "price": 13899
+        }
+      ]
+    },
+    {
+      "name": "Displays & Whiteboards",
+      "products": [
+        {
+          "name": "Huawei IdeaHub B2 – 65”",
+          "image": "display1Huawei.png",
+          "alt": "Huawei IdeaHub B2 65 Interactive Display",
+          "description": "65‑inch intelligent collaboration display with infrared touch technology. Designed for boardrooms, training rooms and hybrid work environments.",
+          "sku": "55150703",
+          "price": 44635
+        },
+        {
+          "name": "Samsung 75” Android Interactive Whiteboard",
+          "image": "display2samsung.jpg",
+          "alt": "Samsung 75 Android Interactive Whiteboard",
+          "description": "Large 75‑inch 4K Android‑powered interactive whiteboard with 7‑year onsite warranty, built‑in speakers and enterprise‑grade durability.",
+          "sku": "SAMSUNG WA75D",
+          "price": 59889
+        }
+      ]
+    },
+    {
+      "name": "Accessories",
+      "products": [
+        {
+          "name": "Rapoo 9320M Wireless Desktop Set",
+          "image": "accessory1rapoo.png",
+          "description": "Ultra‑slim multi‑mode wireless keyboard and mouse combo designed for modern workspaces with support for multiple devices.",
+          "sku": "RAPOO 9320M",
+          "price": 835
+        },
+        {
+          "name": "Logitech Zone Vibe 100 Headset",
+          "image": "accessory2logitec.png",
+          "description": "Lightweight Bluetooth headset offering clear audio and comfortable wear for office, hybrid and remote work environments.",
+          "sku": "981‑001213",
+          "price": 1671
+        }
+      ]
+    }
+  ]
+}
